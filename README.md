@@ -26,6 +26,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program:
+```
+Name: HARISH B
+Reg No: 212223040061
+```
 ```py
 
 import math
